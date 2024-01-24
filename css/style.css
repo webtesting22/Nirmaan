@@ -14892,7 +14892,7 @@ textarea.form-control {
   }
   .commertial-pc,
 .residential-pc{
-  max-height: 20vh; 
+  max-height: 24vh; 
   overflow: auto;
 
   /* white-space: nowrap;
